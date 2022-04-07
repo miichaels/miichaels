@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Michael, aluno da Generation para Desenvolvedor Full Stack Java Jr 
-// Estou emformação e em transição de carreira
+// Estou em formação e em transição de carreira
 
 <div align="center">
   <a href="https://github.com/miichaels">
