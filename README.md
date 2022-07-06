@@ -1,4 +1,5 @@
-### Olá! Eu sou o Michael, aluno da Generation para Desenvolvedor Full Stack Java Jr 
+### Olá! Eu sou o Michael
+Sou formado pela Generation Br para Desenvolvedor Full Stack Java Jr, e estudante de Sistemas para internet na Anhembi
 // Estou em formação e em transição de carreira
 
 <div align="center">
