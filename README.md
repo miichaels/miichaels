@@ -1,5 +1,7 @@
-### Olá! Eu sou o Michael
-Sou formado pela Generation Br para Desenvolvedor Full Stack Java Jr, e estudante de Sistemas para internet na Anhembi
+### Olá, me chamo Michael, tenho 25 anos e resíduo em São Paulo!
+Sou formado em Ed.física onde atuei por alguns anos e acompanhei diversos clientes.
+Decidi migrar para o TI pela minha paixão pela tecnologia e pela oportunidade de crescimento, hoje sou estudante de Sistemas para Internet e continuo com sede de aprender!
+
 
 Esse é meu link de contatos:
 https://miichaels.github.io/Links-Contato/
