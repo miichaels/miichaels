@@ -1,4 +1,4 @@
-### Olá, me chamo Michael, tenho 25 anos e resíduo em São Paulo!
+### Olá, me chamo Michael!
 Sou formado em Ed.física onde atuei por alguns anos e acompanhei diversos clientes.
 Decidi migrar para o TI pela minha paixão pela tecnologia e pela oportunidade de crescimento, hoje sou estudante de Sistemas para Internet e continuo com sede de aprender!
 
