@@ -1,8 +1,13 @@
 ### Olá, me chamo Michael!
 Sou formado em Ed.física onde atuei por alguns anos e acompanhei diversos clientes.
+
 Decidi migrar para o TI pela minha paixão pela tecnologia e pela oportunidade de crescimento.
-No meu dia a dia, trabalho com diversas tecnologias essenciais, tais como Azure Devops, Git, HTML, CSS, Java e WEM OpenText. 
+
+No meu dia a dia, trabalho com diversas tecnologias essenciais, tais como Azure Devops, Git, HTML, CSS, Java e WEM OpenText.
+ 
 Estou animado com a oportunidade de crescer e evoluir entre tecnologia e inovação, mantendo sempre a sede de aprender e aprimorar minhas habilidades.
+
+______________________________________________________________________________________________________________________
 
 Esse é meu link de contatos:
 https://miichaels.github.io/Links-Contato/
@@ -11,7 +16,7 @@ Link Portfólio Web:
 https://portifolio-miichaels.netlify.app/home
 
 
-
+______________________________________________________________________________________________________________________
 
 
 <div align="center">
