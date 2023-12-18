@@ -5,9 +5,12 @@ Decidi migrar para o TI pela minha paixão pela tecnologia e pela oportunidade d
 
 No meu dia a dia, trabalho com diversas tecnologias essenciais, tais como Azure Devops, Git, HTML, CSS, Java e WEM OpenText.
  
-Estou animado com a oportunidade de crescer e evoluir entre tecnologia e inovação, mantendo sempre a sede de aprender e aprimorar minhas habilidades.
+Estou entusiasmado com a oportunidade de crescer e evoluir no campo da tecnologia e inovação. 
+Mantenho sempre uma grande vontade de aprender e aprimorar minhas habilidades.
 
 ______________________________________________________________________________________________________________________
+
+Portfólios:
 
 Esse é meu link de contatos:
 https://miichaels.github.io/Links-Contato/
