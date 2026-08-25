@@ -22,8 +22,7 @@ https://portifolio-miichaels.netlify.app/home
 ______________________________________________________________________________________________________________________
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/output/snake.svg" alt="Snake animation" />
 
  
   
