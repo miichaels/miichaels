@@ -21,9 +21,9 @@ https://portifolio-miichaels.netlify.app/home
 
 ______________________________________________________________________________________________________________________
 
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/output/snake.svg" alt="Snake animation" />
-
+<div align-center>
+<img src="https://raw.githubusercontent.com/miichaels/miichaels/output/snake.svg" alt="Snake animation" />
+</div>
  
   
   
